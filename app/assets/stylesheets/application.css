@@ -13,3 +13,29 @@
  *= require_tree .
  *= require_self
  */
+
+ body{
+   background-color: #FFFDDE;
+ }
+ 
+ h1 {
+   color:
+ }
+
+ .letters {
+   background-color: #FFE69A;
+ }
+
+ .game-btn {
+   border: none;
+   text-decoration: none;
+   background-color: #92B4EC;
+   padding: 5px 10px;
+   color: white;
+   border-radius: 7px;
+ }
+
+.game-btn:hover {
+  text-decoration:none;
+  color: white;
+}
